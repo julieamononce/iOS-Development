@@ -36,7 +36,7 @@ It could even recommend places based on your previous experiences. And wouldn’
 
 ## Notes
 
-Honeslty learnign where everything is was challenging. I have so many ideas, but it was hard to figure out how to add a new screen, or scroll through the app. I would change the way I went about the project and add a new button called "my favs". Once you push the button you will be shown a new page with images of my favorite cafes, libraries, pilates and yoga places. I would basically make a simple version of my app brainstorm. 
+Honestly learning where everything is was challenging. I have so many ideas, but it was hard to figure out how to add a new screen, or scroll through the app. I would change the way I went about the project and add a new button called "my favs". Once you push the button you will be shown a new page with images of my favorite cafes, libraries, pilates and yoga places. I would basically make a simple version of my app brainstorm. 
 
 ## License
 
