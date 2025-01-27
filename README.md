@@ -4,7 +4,7 @@ Submitted by: Julie Amon
 
 Lets try this is an app that can change colors tell you my name, school, current job, and one of my favorite cafes in the city. You can also scroll through colors when you press the change button
 
-Time spent: 48 hours spent in total
+Time spent: 50 hours spent in total
 
 ## Required Features
 
@@ -17,14 +17,13 @@ The following **required** functionality is completed:
 My Favorite Places App Overview - Watch Video
 
 <div>
-    <a href="https://www.loom.com/share/ba79eebd7dc64f47bf949537e9b51c8c">
-
+    <a href="https://www.loom.com/share/c7956e05fa224c5eadc40a3cfcbef192">
+      
     </a>
-    <a href="https://www.loom.com/share/ba79eebd7dc64f47bf949537e9b51c8c">
-      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/ba79eebd7dc64f47bf949537e9b51c8c-e0320ebdda32d232-full-play.gif">
+    <a href="https://www.loom.com/share/c7956e05fa224c5eadc40a3cfcbef192">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/c7956e05fa224c5eadc40a3cfcbef192-e896c291cebe163c-full-play.gif">
     </a>
   </div>
-  
 ## App Brainstorming (Step 4)
 - Pinterest:The organization of pictures, the explore feature, and how widgets work perfectly with the app
 - Spotify: Equalizer, the DJ feature
@@ -36,7 +35,7 @@ It could even recommend places based on your previous experiences. And wouldn’
 
 ## Notes
 
-Honestly learning where everything is was challenging. I have so many ideas, but it was hard to figure out how to add a new screen, or scroll through the app. I would change the way I went about the project and add a new button called "my favs". Once you push the button you will be shown a new page with images of my favorite cafes, libraries, pilates and yoga places. I would basically make a simple version of my app brainstorm. 
+Honestly learning where everything is was challenging. I have so many ideas, but it was hard to figure out how to add a new screen, or scroll through the app. I would change the way I went about the project and add a new button called "my favs". Once you push the button you would be shown a new page with images of my favorite cafes, libraries, pilates and yoga places. I would basically make a simple version of my app brainstorm. But, for now I am happy to have an app that scrolls and has basic functions. I will continue to make it better.
 
 ## License
 
